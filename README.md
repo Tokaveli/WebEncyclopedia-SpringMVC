@@ -6,4 +6,4 @@ Hibernate/
 PostgreSQL /
 Maven/
 JDK 1.8/
-Eclipse/
+Eclipse
